@@ -1,3 +1,6 @@
+Demo Video:
+https://drive.google.com/file/d/1t4b_LHIBsvNm7IQQMyDaqQ_5pKCBF6u-/view?usp=drive_link
+
 Project Report: Connect Four Game (Human vs Human, Human vs AI)
 
 1. Introduction
